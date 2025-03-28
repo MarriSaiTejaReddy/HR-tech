@@ -47,7 +47,7 @@ performance.csv
 tenure.csv
 
 Set up relationships using EmpID across all tables.
-##Usage
+## Usage
 Once loaded in Tableau:
 
 Navigate through dashboards:
@@ -72,7 +72,7 @@ Date Range
 
 Hover over visuals to explore KPIs and deeper metrics.
 
-##Features
+## Features
 Attrition Insights
 Visualize turnover trends across departments and roles.
 
@@ -91,17 +91,17 @@ Ensures no orphan records, missing keys, or invalid field values through preproc
 Interactive Tableau Dashboards
 Clean and color-coded visuals with filters and KPIs for user-driven insights.
 
-##Dashboard Preview
+## Dashboard Preview
 
 Live Demo: View Tableau Dashboard.....Not yet done
 
-##Contributing
+## Contributing
 Pull requests are welcome. For major changes, open an issue first to discuss what you would like to improve. We also welcome ideas for additional HR KPIs to visualize.
 
-##License
+## License
 MIT License. See LICENSE for details.
 
-##Acknowledgements
+## Acknowledgements
 Team 4 – Project Team
 
 Tableau Public
